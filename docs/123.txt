@@ -1,0 +1,15 @@
+trojan=i1.tjone.cn:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港专线1🇭🇰
+trojan=i2.tjone.cn:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港专线2🇭🇰
+trojan=i3.tjone.cn:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港专线3🇭🇰
+trojan=58.254.183.228:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港联通专线🇭🇰
+trojan=120.232.159.60:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港移动专线🇭🇰
+trojan=14.215.40.233:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港电信专线1🇭🇰
+trojan=59.37.139.216:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港电信专线2🇭🇰
+trojan=14.215.40.233:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港电信专线3🇭🇰
+trojan=121.14.131.216:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港专线🇭🇰
+trojan=103.248.153.178:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=香港专线🇭🇰BGP
+trojan=124.151.43.21:6378, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=日本专线🇯🇵
+trojan=38.207.136.202:443, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连日本🇯🇵
+trojan=221.155.202.15:443, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连韩国🇰🇷
+trojan=149.28.151.140:443, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连新加坡🇸🇬
+trojan=220.130.58.79:443, password=0cb4d0105000497884d76aa81a418201, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连台湾🇨🇳
