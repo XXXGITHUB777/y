@@ -1,0 +1,17 @@
+vmess=183.240.187.208:42272, id=418048af-a293-4b99-9b0c-98ca3580dd24, alter-id=64, method=auto, skip-cert-verify=false, tag=蜜蜂🐝
+trojan=120.232.159.56:3387, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=香港移动专线🇭🇰
+trojan=59.37.173.52:3387, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=香港电信专线🇭🇰
+trojan=58.254.183.231:3387, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=香港联通专线🇭🇰
+trojan=120.232.159.57:3387, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=香港移动专线2🇭🇰
+trojan=58.254.183.232:3387, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=香港联通专线2🇭🇰
+trojan=59.37.173.53:3387, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=香港电信专线2🇭🇰
+trojan=202.101.49.48:3387, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=日本IPEL专线🇯🇵
+trojan=47.242.225.242:443, password=92690597d6298061459918a371e8d77d, over-tls=true, tls-verification=false, udp-relay=true, sni=hezijiasuqi.com, tag=日本专线🇯🇵
+shadowsocks=154.17.23.113:10337, method=none, password=jklbnm, udp=false, tag=香蕉🍌
+shadowsocks=43.201.108.250:80, method=aes-256-gcm, password=dada0801, udp=false, tag=onskr
+shadowsocks=18.199.98.206:443, method=aes-256-cfb, password=amazonskr05, udp=false, tag=VIP(KR, Incheon)-gcm
+trojan=183.179.43.253:443, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连香港🇭🇰
+trojan=38.207.136.202:443, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连日本🇯🇵
+trojan=211.55.157.178:443, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连韩国🇰🇷
+trojan=45.145.154.8:443, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连新加坡🇸🇬
+trojan=220.130.58.79:443, password=965edcb6316747959a1f861313c16027, over-tls=true, tls-verification=false, udp-relay=true, tag=闪连台湾🇨🇳
